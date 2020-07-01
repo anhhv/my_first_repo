@@ -6,3 +6,5 @@ Part2: Create a new repository from the command line
 
 Part3: Tracking changes with git
 * This is what we are looking for
+
+Part4: Exploring history
